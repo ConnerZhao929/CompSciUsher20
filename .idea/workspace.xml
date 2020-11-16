@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/AP-Computer-Science-Usher-20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.2.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +29,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.4.2">
+  <component name="RunManager" selected="Python.4.2 execrise">
+    <configuration name="4.2 execrise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AP-Computer-Science-Usher-20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fupeng\OneDrive\Desktop\AP-Computer-Science-Usher-20\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.2 execrise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AP-Computer-Science-Usher-20" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,9 +96,11 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.4.2" />
+      <item itemvalue="Python.4.2 execrise" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.2 execrise" />
         <item itemvalue="Python.4.2" />
       </list>
     </recent_temporary>
@@ -101,6 +116,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="414" y="179" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605505612960">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -114,22 +140,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="315" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605505542022" />
-    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1605505712173">
+    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1605505881575">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605505712173" />
-    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1605505712173">
+    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
+    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1605505881575">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605505712173" />
-    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1605505712173">
+    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
+    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1605505881574">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605505712173" />
-    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1605505712173">
+    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881574" />
+    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1605505881575">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605505712173" />
+    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1605505581352">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
