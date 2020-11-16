@@ -26,10 +26,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.4.2 execrise">
+  <component name="RunManager" selected="Python.Variables and User Input -4.2b">
     <configuration name="4.2 execrise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AP-Computer-Science-Usher-20" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,13 +94,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Variables and User Input -4.2b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AP-Computer-Science-Usher-20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\fupeng\OneDrive\Desktop\AP-Computer-Science-Usher-20\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Variables and User Input -4.2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.4.2" />
       <item itemvalue="Python.4.2 execrise" />
+      <item itemvalue="Python.Variables and User Input -4.2b" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Variables and User Input -4.2b" />
         <item itemvalue="Python.4.2 execrise" />
         <item itemvalue="Python.4.2" />
       </list>
@@ -140,22 +164,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="315" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605505542022" />
-    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1605505881575">
+    <state width="468" height="285" key="GridCell.Tab.0.bottom" timestamp="1605506318890">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
-    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1605505881575">
+    <state width="468" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605506318890" />
+    <state width="468" height="285" key="GridCell.Tab.0.center" timestamp="1605506318889">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
-    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1605505881574">
+    <state width="468" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605506318889" />
+    <state width="468" height="285" key="GridCell.Tab.0.left" timestamp="1605506318889">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881574" />
-    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1605505881575">
+    <state width="468" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605506318889" />
+    <state width="468" height="285" key="GridCell.Tab.0.right" timestamp="1605506318889">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605505881575" />
+    <state width="468" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605506318889" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1605505581352">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
