@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4.4 Exercise A - MoreLoops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/Quiz - 4.3 Exercise B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz/Quiz - 4.3 Exercise B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,13 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20" />
+      <recent name="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Quiz" />
+      <recent name="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.4.4 Exercise A - MoreLoops">
     <configuration name="4.3 Exercise A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -130,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises\Quiz - 4.3 Exercise B.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Quiz\Quiz - 4.3 Exercise B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
