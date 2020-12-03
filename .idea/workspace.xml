@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/Quiz - 4.3 Exercise B.py" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz/Quiz - 4.3 Exercise B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
