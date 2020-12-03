@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,28 +41,7 @@
       <recent name="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.4 Exercise A - MoreLoops">
-    <configuration name="4.3 Exercise A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AP-Computer-Science-Usher-20" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises\4.3 Exercise A.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.4 Exercise A - favorite color">
     <configuration name="4.4 Exercise A - MoreLoops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,6 +55,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <option name="SCRIPT_NAME" value="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises\4.4 Exercise A - MoreLoops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.4 Exercise A - favorite color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CompSciUsher20" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/4.4 Exercise A - favorite color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,20 +169,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4.3 Exercise A" />
+      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.4.4 Exercise A - MoreLoops" />
       <item itemvalue="Python.Divisible - 4.3 Exercise B" />
       <item itemvalue="Python.Geometry - 4.3 Exercise B" />
       <item itemvalue="Python.Quiz - 4.3 Exercise B" />
-      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.4.4 Exercise A - favorite color" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.4 Exercise A - favorite color" />
         <item itemvalue="Python.4.4 Exercise A - MoreLoops" />
         <item itemvalue="Python.Quiz - 4.3 Exercise B" />
         <item itemvalue="Python.Geometry - 4.3 Exercise B" />
         <item itemvalue="Python.Divisible - 4.3 Exercise B" />
-        <item itemvalue="Python.4.3 Exercise A" />
       </list>
     </recent_temporary>
   </component>
@@ -207,39 +208,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="179" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605505612960">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="414" y="179" width="1092" height="787" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605505612960" />
-    <state x="827" y="291" width="842" height="559" key="EnvironmentVariablesDialog" timestamp="1605505510200">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="827" y="291" width="842" height="559" key="EnvironmentVariablesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605505510200" />
-    <state x="740" y="315" key="FileChooserDialogImpl" timestamp="1605505542022">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="740" y="315" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605505542022" />
-    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1606887076019">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1606887076019" />
-    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1606887076019">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1606887076019" />
-    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1606887076018">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1606887076018" />
-    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1606887076019">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1606887076019" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1605505581352">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605505581352" />
   </component>
 </project>
