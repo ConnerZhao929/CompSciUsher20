@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec7328a7-6ed5-49a5-94e8-0e6f31d6a4d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise A - sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Lists - 4.5 Exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/4.4 Exercise A - sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/4.4 Exercise A - sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
       <recent name="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.4 Exercise A - sum">
+  <component name="RunManager" selected="Python.4.4 Exercise B">
     <configuration name="4.4 Exercise A - MoreLoops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,19 +107,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Geometry - 4.3 Exercise B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AP-Computer-Science-Usher-20" />
+    <configuration name="4.4 Exercise B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CompSciUsher20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\fupeng\OneDrive\Desktop\CompSci\AP-Computer-Science-Usher-20\Exercises\Geometry - 4.3 Exercise B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/4.4 Exercise B.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,18 +173,18 @@
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.4.4 Exercise A - MoreLoops" />
-      <item itemvalue="Python.Geometry - 4.3 Exercise B" />
-      <item itemvalue="Python.Quiz - 4.3 Exercise B" />
       <item itemvalue="Python.4.4 Exercise A - favorite color" />
       <item itemvalue="Python.4.4 Exercise A - sum" />
+      <item itemvalue="Python.Quiz - 4.3 Exercise B" />
+      <item itemvalue="Python.4.4 Exercise B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.4 Exercise B" />
         <item itemvalue="Python.4.4 Exercise A - sum" />
         <item itemvalue="Python.4.4 Exercise A - favorite color" />
         <item itemvalue="Python.4.4 Exercise A - MoreLoops" />
         <item itemvalue="Python.Quiz - 4.3 Exercise B" />
-        <item itemvalue="Python.Geometry - 4.3 Exercise B" />
       </list>
     </recent_temporary>
   </component>
