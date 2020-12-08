@@ -15,5 +15,3 @@ for i in range(AmountNumber):
     NumAdded = int(NumAdded)
     sumNum = sumNum + NumAdded
 print("The sum of your numbers is : " + str(sumNum))
-
-#srikar is  anigga
