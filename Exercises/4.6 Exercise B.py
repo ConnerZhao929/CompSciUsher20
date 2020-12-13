@@ -32,7 +32,7 @@ while count != 4:
   guess2 = int(input("What do you think the second number is? "))
   guess3 = int(input("What do you think the third number is? "))
   guess4 = int(input("What do you think the fourth number is? "))
-  count = check(guess1, guess2, guess3, guess4)
+  count = check(guess1, guess2, guess3, guess4) 
   print("You guessed " + str(count) + " correctly.")
 print("Congratulations, it took you " + str(tries) + " tries.")
 
