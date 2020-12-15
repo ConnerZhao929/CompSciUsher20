@@ -1,4 +1,4 @@
 {
-  "Interpreter": "Global|PythonCore|3.9",
-  "TestFramework": "Pytest"
+  "TestFramework": "Pytest",
+  "Interpreter": "Global|PythonCore|3.9"
 }
