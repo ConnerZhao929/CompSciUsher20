@@ -5,6 +5,7 @@ import numpy as np
 import face_recognition as fr
 import os
 import cv2
+import sys
 video_capture = cv2.VideoCapture(0)
 
 #welcome message
@@ -58,11 +59,11 @@ while True:
 
     for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodings):
 
-        matches = fr.compare_faces(known_face_encondings, face_encoding)
+        matches = fr.compare_faces(faces_encoded, face_encoding)
 
         name = "Unknown"
 
-        face_distances = fr.face_distance(known_face_encondings, face_encoding)
+        face_distances = fr.face_distance(faces_encoded, face_encoding)
 
         best_match_index = np.argmin(face_distances)
         if matches[best_match_index]:
