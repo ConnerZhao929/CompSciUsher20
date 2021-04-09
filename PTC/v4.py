@@ -19,7 +19,7 @@ if picture_exist.exists():
     print("Picture Found")
 else:
     print("Picture not found")
-while picture_exist.exists() == False:
+while True != picture_exist.exists():
     return_value, image = video_capture.read()
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     cv2.imshow('image', gray)
