@@ -12,7 +12,7 @@ video_capture = cv2.VideoCapture(0)
 import face_recognition
 #imported Numeric Python module
 import numpy as np
-from time import sleep
+import time
 import sys
 
 def get_encoded_faces():
@@ -66,14 +66,13 @@ face_locations = []
 face_encodings = []
 face_names = []
 process_this_frame = True
+faces = get_encoded_faces()
+faces_encoded = list(faces.values())
+known_face_names = list(faces.keys())
 
 while True:
     # Grab a single frame of video
     ret, frame = video_capture.read()
-
-    faces = get_encoded_faces()
-    faces_encoded = list(faces.values())
-    known_face_names = list(faces.keys())
 
     # Resize frame of video to 1/4 size for faster face recognition processing
     small_frame = cv2.resize(frame, (0, 0), fx=0.25, fy=0.25)
@@ -89,7 +88,6 @@ while True:
 
         face_names = []
         for face_encoding in face_encodings:
-            print(faces_encoded + face_encoding)
             # Check faces(Comparing).
             matches = face_recognition.compare_faces(faces_encoded, face_encoding)
             #if the faces are unknown, they are labled "Unknown"
