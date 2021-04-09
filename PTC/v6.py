@@ -11,11 +11,6 @@ if not video_capture.isOpened():
 username = input("Hello, please enter your username:")
 print('Welcome, ' + username)
 
-
-
-
-
-
 picture = input('Picture Name')
 picture_exist = pathlib.Path(picture)
 if picture_exist.exists():

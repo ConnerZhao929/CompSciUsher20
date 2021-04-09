@@ -1,11 +1,14 @@
 import cv2
 import os
+from pathlib import *
 video_capture = cv2.VideoCapture(0)
 username = input('username:')
 directory = os.getcwd()
+path = "E:/school/CSP/PTC/faces/"
+"""
+mac:
 path = (directory + ('/faces/'))
-print(path)
-
+"""
 while True:
     return_value, image = video_capture.read()
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
